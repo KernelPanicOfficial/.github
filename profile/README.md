@@ -6,7 +6,7 @@ Kernel Panic is a dedicated team of cybersecurity experts based in Greece with a
 <b>Hall of Fame:</b><br /><br />
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="/profile/Pictures/cissp-logo.png" alt="CISSP" width="100" height="100" />
+    <img src="/profile/Pictures/cispp-logo.png" alt="CISSP" width="100" height="100" />
     <img src="/profile/Pictures/oswe-logo.png" alt="OSWE" width="100" height="100" />
     <img src="/profile/Pictures/osep-logo.png" alt="OSEP" width="100" height="100" />
     <img src="/profile/Pictures/oscp-logo.png" alt="OSCP" width="100" height="100" />
