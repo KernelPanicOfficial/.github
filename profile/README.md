@@ -3,7 +3,7 @@
 Kernel Panic is a dedicated team of cybersecurity experts based in Greece with a multiyear experience in comprehensive security operations, advanced security training programs, and development of offensive security tooling.
 
 
-Hall of Fame:
+<b>Hall of Fame:</b><br />
 
 <div style="display: flex; justify-content: space-between;">
     <img src="/profile/Pictures/oswe-logo.png" alt="OSWE" width="100" height="100" />
