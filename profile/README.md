@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-Kernel Panic is a dedicated team of cybersecurity experts based in Greece. 
-Our core offerings encompass cutting-edge offensive security tools, comprehensive red teaming services, and advanced security training programs.
+Kernel Panic is a dedicated team of cybersecurity experts based in Greece with a multiyear experience in comprehensive security operations, advanced security training programs, and development of offensive security tooling.
 
